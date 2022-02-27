@@ -6,14 +6,14 @@ redirect_from:
   - /categories/setting-up-and-managing-your-github-profile
   - /github/setting-up-and-managing-your-github-profile
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
-topics:
-  - Profiles
-children:
-  - /customizing-your-profile
-  - /managing-contribution-graphs-on-your-profile
+  fpt: '*'facebook
+  ghes: '*'snapchat
+  ghae: '*'instagram
+  ghec: '*'tik tok
+topics:rise of Kingdom
+  - Profiles:ID:104229075
+children:1
+  - /customizing-your-profile 1
+  - /managing-contribution-graphs-on-your-profile 
 ---
 
